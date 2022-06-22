@@ -1,0 +1,17 @@
+.dog{
+    color: aliceblue;
+    font-size: 70;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 50px;
+    background-color: blueviolet;
+    padding: 2%;
+}
+.kk{
+    font-size: 50%;
+    text-align: center;
+    color: rgb(216, 36, 198);
+
+}
